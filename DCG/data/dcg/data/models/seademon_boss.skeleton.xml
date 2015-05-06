@@ -1,0 +1,3070 @@
+<skeleton>
+    <bones>
+        <bone id="0" name="SeaDemon">
+            <position x="-0.0706498" y="-13.4866" z="-0.0177747" />
+            <rotation angle="1.5708">
+                <axis x="0" y="-1" z="4.37114e-008" />
+            </rotation>
+        </bone>
+        <bone id="1" name="SeaDemon Pelvis">
+            <position x="-3.46817" y="0" z="-7.45058e-009" />
+            <rotation angle="2.09439">
+                <axis x="-0.57735" y="-0.57735" z="0.577351" />
+            </rotation>
+        </bone>
+        <bone id="2" name="SeaDemon Spine">
+            <position x="3.90293" y="5.40912e-006" z="0.00344634" />
+            <rotation angle="0.349862">
+                <axis x="-1.24634e-005" y="1" z="4.57302e-006" />
+            </rotation>
+        </bone>
+        <bone id="3" name="SeaDemon Spine1">
+            <position x="4.60623" y="-1.49012e-008" z="0.00381982" />
+            <rotation angle="0.0872659">
+                <axis x="1.24836e-012" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="4" name="SeaDemon Spine2">
+            <position x="4.81635" y="0" z="0.00290453" />
+            <rotation angle="0.174531">
+                <axis x="-6.13778e-013" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="5" name="SeaDemon Spine3">
+            <position x="3.70506" y="0" z="0.00317472" />
+            <rotation angle="0.261798">
+                <axis x="-2.60806e-013" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="6" name="SeaDemon Neck">
+            <position x="4.48635" y="1.08033e-006" z="-0.782734" />
+            <rotation angle="1.309">
+                <axis x="1.17697e-013" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="7" name="SeaDemon R Clavicle">
+            <position x="-2.03283" y="-6.73985" z="-0.974498" />
+            <rotation angle="2.01957">
+                <axis x="-0.229395" y="0.904783" z="-0.358812" />
+            </rotation>
+        </bone>
+        <bone id="8" name="SeaDemon R UpperArm">
+            <position x="6.39831" y="0" z="2.38419e-007" />
+            <rotation angle="0.840746">
+                <axis x="0.602153" y="-0.681411" z="-0.416042" />
+            </rotation>
+        </bone>
+        <bone id="9" name="SeaDemon R Forearm">
+            <position x="10.5109" y="4.76837e-007" z="-1.49012e-007" />
+            <rotation angle="0.2">
+                <axis x="-4.41757e-008" y="-1" z="2.16268e-007" />
+            </rotation>
+        </bone>
+        <bone id="10" name="SeaDemon R Hand">
+            <position x="10.6367" y="4.76837e-007" z="0" />
+            <rotation angle="1.57032">
+                <axis x="0.999679" y="-0.0179001" z="-0.0179144" />
+            </rotation>
+        </bone>
+        <bone id="11" name="SeaDemon R Finger0">
+            <position x="2.96259" y="3.95824" z="-1.13284" />
+            <rotation angle="4.1728">
+                <axis x="0.689259" y="0.580055" z="-0.434117" />
+            </rotation>
+        </bone>
+        <bone id="12" name="SeaDemon R Finger01">
+            <position x="4.29132" y="0" z="-3.8147e-006" />
+            <rotation angle="0.265543">
+                <axis x="-3.36725e-009" y="1" z="-4.0675e-008" />
+            </rotation>
+        </bone>
+        <bone id="13" name="SeaDemon R Finger0Nub">
+            <position x="0.000957489" y="4.76837e-007" z="-1.90735e-006" />
+            <rotation angle="3.14159">
+                <axis x="1.86265e-009" y="1" z="-4.33065e-008" />
+            </rotation>
+        </bone>
+        <bone id="14" name="SeaDemon R Finger1">
+            <position x="8.58965" y="0" z="-9.53674e-007" />
+            <rotation angle="0">
+                <axis x="1" y="-1.31554e-005" z="4.66895e-006" />
+            </rotation>
+        </bone>
+        <bone id="15" name="SeaDemon R Finger11">
+            <position x="4.23563" y="2.38419e-007" z="-1.43051e-006" />
+            <rotation angle="0">
+                <axis x="0" y="-1" z="0" />
+            </rotation>
+        </bone>
+        <bone id="16" name="SeaDemon R Finger1Nub">
+            <position x="4.23563" y="0" z="9.53674e-007" />
+            <rotation angle="3.14159">
+                <axis x="-2.19009e-016" y="1" z="-4.28408e-008" />
+            </rotation>
+        </bone>
+        <bone id="17" name="SeaDemon Neck1">
+            <position x="3.65973" y="-2.23517e-008" z="0.00648689" />
+            <rotation angle="0.261798">
+                <axis x="8.09871e-013" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="18" name="SeaDemon Head">
+            <position x="8.43256" y="0" z="0" />
+            <rotation angle="3.83893">
+                <axis x="1.99501e-012" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="19" name="SeaDemon HeadNub">
+            <position x="11.7018" y="0" z="-9.53674e-007" />
+            <rotation angle="0">
+                <axis x="0" y="-1" z="0" />
+            </rotation>
+        </bone>
+        <bone id="20" name="SeaDemon L Clavicle">
+            <position x="-2.03283" y="6.73986" z="-0.974462" />
+            <rotation angle="2.01957">
+                <axis x="0.229396" y="0.904782" z="0.358814" />
+            </rotation>
+        </bone>
+        <bone id="21" name="SeaDemon L UpperArm">
+            <position x="6.39831" y="-9.53674e-007" z="-1.19209e-007" />
+            <rotation angle="0.840746">
+                <axis x="-0.602153" y="-0.681411" z="0.416042" />
+            </rotation>
+        </bone>
+        <bone id="22" name="SeaDemon L Forearm">
+            <position x="10.5109" y="0" z="-5.96046e-008" />
+            <rotation angle="0.2">
+                <axis x="5.06328e-008" y="-1" z="-4.17697e-008" />
+            </rotation>
+        </bone>
+        <bone id="23" name="SeaDemon L Hand">
+            <position x="10.6367" y="-4.76837e-007" z="0" />
+            <rotation angle="1.57032">
+                <axis x="-0.999679" y="-0.0179001" z="0.0179143" />
+            </rotation>
+        </bone>
+        <bone id="24" name="SeaDemon L Finger0">
+            <position x="2.96259" y="-3.95824" z="-1.13284" />
+            <rotation angle="2.11039">
+                <axis x="0.689259" y="-0.580055" z="-0.434117" />
+            </rotation>
+        </bone>
+        <bone id="25" name="SeaDemon L Finger01">
+            <position x="4.29132" y="2.38419e-007" z="-3.8147e-006" />
+            <rotation angle="0.265543">
+                <axis x="-3.31227e-008" y="1" z="-6.02094e-008" />
+            </rotation>
+        </bone>
+        <bone id="26" name="SeaDemon L Finger0Nub">
+            <position x="0.000959396" y="-2.38419e-007" z="1.90735e-006" />
+            <rotation angle="0">
+                <axis x="-0.640184" y="0" z="-0.768221" />
+            </rotation>
+        </bone>
+        <bone id="27" name="SeaDemon L Finger1">
+            <position x="8.58965" y="0" z="-4.76837e-007" />
+            <rotation angle="0">
+                <axis x="-1" y="6.7248e-006" z="-1.97907e-009" />
+            </rotation>
+        </bone>
+        <bone id="28" name="SeaDemon L Finger11">
+            <position x="4.23563" y="0" z="-9.53674e-007" />
+            <rotation angle="0">
+                <axis x="-0.239019" y="-0.971015" z="0" />
+            </rotation>
+        </bone>
+        <bone id="29" name="SeaDemon L Finger1Nub">
+            <position x="4.23563" y="-2.38419e-007" z="0" />
+            <rotation angle="0">
+                <axis x="-0.239019" y="-0.971015" z="0" />
+            </rotation>
+        </bone>
+        <bone id="30" name="SeaDemon R Thigh">
+            <position x="-3.66531" y="-5.89836" z="-1.34105" />
+            <rotation angle="2.72264">
+                <axis x="0.712131" y="-0.0635378" z="-0.699165" />
+            </rotation>
+        </bone>
+        <bone id="31" name="SeaDemon R Calf">
+            <position x="11.865" y="-2.38419e-007" z="-9.53674e-007" />
+            <rotation angle="1.7708">
+                <axis x="4.40468e-009" y="-1" z="3.96194e-008" />
+            </rotation>
+        </bone>
+        <bone id="32" name="SeaDemon R Foot">
+            <position x="14.6419" y="0" z="0" />
+            <rotation angle="0.641677">
+                <axis x="-0.448617" y="0.795957" z="-0.406441" />
+            </rotation>
+        </bone>
+        <bone id="33" name="SeaDemon R Toe0">
+            <position x="8.14222" y="-9.53674e-007" z="-17.4843" />
+            <rotation angle="1.5708">
+                <axis x="-2.23517e-008" y="1" z="-2.23517e-008" />
+            </rotation>
+        </bone>
+        <bone id="34" name="SeaDemon R Toe0Nub">
+            <position x="0.892603" y="0" z="0" />
+            <rotation angle="0">
+                <axis x="-0.0623783" y="0.998053" z="1.38508e-017" />
+            </rotation>
+        </bone>
+        <bone id="35" name="SeaDemon Tail">
+            <position x="-6.64863" y="-1.60187e-006" z="0.72761" />
+            <rotation angle="3.88222">
+                <axis x="0" y="1" z="2.72989e-006" />
+            </rotation>
+        </bone>
+        <bone id="36" name="SeaDemon Tail1">
+            <position x="7.5652" y="4.47035e-008" z="0.00601768" />
+            <rotation angle="0.0518881">
+                <axis x="-0.0117203" y="-0.862723" z="0.505541" />
+            </rotation>
+        </bone>
+        <bone id="37" name="SeaDemon Tail2">
+            <position x="7.56676" y="-1.19209e-007" z="0.00588036" />
+            <rotation angle="0.219113">
+                <axis x="-0.0148393" y="0.990429" z="-0.137222" />
+            </rotation>
+        </bone>
+        <bone id="38" name="SeaDemon Tail3">
+            <position x="7.56572" y="-4.47035e-008" z="0.00601959" />
+            <rotation angle="0.0425009">
+                <axis x="1.25301e-009" y="1" z="2.71293e-006" />
+            </rotation>
+        </bone>
+        <bone id="39" name="SeaDemon TailNub">
+            <position x="7.56547" y="-1.49012e-008" z="-3.8147e-006" />
+            <rotation angle="3.14159">
+                <axis x="0.707388" y="9.49107e-007" z="-0.706825" />
+            </rotation>
+        </bone>
+        <bone id="40" name="SeaDemon L Thigh">
+            <position x="-3.66531" y="5.89836" z="-1.34102" />
+            <rotation angle="3.56055">
+                <axis x="0.712131" y="0.0635397" z="-0.699165" />
+            </rotation>
+        </bone>
+        <bone id="41" name="SeaDemon L Calf">
+            <position x="11.865" y="-4.76837e-007" z="9.53674e-007" />
+            <rotation angle="1.7708">
+                <axis x="-3.13253e-008" y="-1" z="3.6398e-008" />
+            </rotation>
+        </bone>
+        <bone id="42" name="SeaDemon L Foot">
+            <position x="14.6419" y="4.76837e-007" z="0" />
+            <rotation angle="0.641677">
+                <axis x="0.448617" y="0.795957" z="0.406441" />
+            </rotation>
+        </bone>
+        <bone id="43" name="SeaDemon L Toe0">
+            <position x="8.14223" y="-9.53674e-007" z="-17.4843" />
+            <rotation angle="1.5708">
+                <axis x="2.13597e-008" y="1" z="-6.60631e-008" />
+            </rotation>
+        </bone>
+        <bone id="44" name="SeaDemon L Toe0Nub">
+            <position x="0.892603" y="-9.53674e-007" z="0" />
+            <rotation angle="3.14159">
+                <axis x="-3.88235e-023" y="1" z="-4.37114e-008" />
+            </rotation>
+        </bone>
+    </bones>
+    <bonehierarchy>
+        <boneparent bone="SeaDemon Pelvis" parent="SeaDemon" />
+        <boneparent bone="SeaDemon Spine" parent="SeaDemon Pelvis" />
+        <boneparent bone="SeaDemon Spine1" parent="SeaDemon Spine" />
+        <boneparent bone="SeaDemon Spine2" parent="SeaDemon Spine1" />
+        <boneparent bone="SeaDemon Spine3" parent="SeaDemon Spine2" />
+        <boneparent bone="SeaDemon Neck" parent="SeaDemon Spine3" />
+        <boneparent bone="SeaDemon R Clavicle" parent="SeaDemon Neck" />
+        <boneparent bone="SeaDemon R UpperArm" parent="SeaDemon R Clavicle" />
+        <boneparent bone="SeaDemon R Forearm" parent="SeaDemon R UpperArm" />
+        <boneparent bone="SeaDemon R Hand" parent="SeaDemon R Forearm" />
+        <boneparent bone="SeaDemon R Finger0" parent="SeaDemon R Hand" />
+        <boneparent bone="SeaDemon R Finger01" parent="SeaDemon R Finger0" />
+        <boneparent bone="SeaDemon R Finger0Nub" parent="SeaDemon R Finger01" />
+        <boneparent bone="SeaDemon R Finger1" parent="SeaDemon R Hand" />
+        <boneparent bone="SeaDemon R Finger11" parent="SeaDemon R Finger1" />
+        <boneparent bone="SeaDemon R Finger1Nub" parent="SeaDemon R Finger11" />
+        <boneparent bone="SeaDemon Neck1" parent="SeaDemon Neck" />
+        <boneparent bone="SeaDemon Head" parent="SeaDemon Neck1" />
+        <boneparent bone="SeaDemon HeadNub" parent="SeaDemon Head" />
+        <boneparent bone="SeaDemon L Clavicle" parent="SeaDemon Neck" />
+        <boneparent bone="SeaDemon L UpperArm" parent="SeaDemon L Clavicle" />
+        <boneparent bone="SeaDemon L Forearm" parent="SeaDemon L UpperArm" />
+        <boneparent bone="SeaDemon L Hand" parent="SeaDemon L Forearm" />
+        <boneparent bone="SeaDemon L Finger0" parent="SeaDemon L Hand" />
+        <boneparent bone="SeaDemon L Finger01" parent="SeaDemon L Finger0" />
+        <boneparent bone="SeaDemon L Finger0Nub" parent="SeaDemon L Finger01" />
+        <boneparent bone="SeaDemon L Finger1" parent="SeaDemon L Hand" />
+        <boneparent bone="SeaDemon L Finger11" parent="SeaDemon L Finger1" />
+        <boneparent bone="SeaDemon L Finger1Nub" parent="SeaDemon L Finger11" />
+        <boneparent bone="SeaDemon R Thigh" parent="SeaDemon Spine" />
+        <boneparent bone="SeaDemon R Calf" parent="SeaDemon R Thigh" />
+        <boneparent bone="SeaDemon R Foot" parent="SeaDemon R Calf" />
+        <boneparent bone="SeaDemon R Toe0" parent="SeaDemon R Foot" />
+        <boneparent bone="SeaDemon R Toe0Nub" parent="SeaDemon R Toe0" />
+        <boneparent bone="SeaDemon Tail" parent="SeaDemon Spine" />
+        <boneparent bone="SeaDemon Tail1" parent="SeaDemon Tail" />
+        <boneparent bone="SeaDemon Tail2" parent="SeaDemon Tail1" />
+        <boneparent bone="SeaDemon Tail3" parent="SeaDemon Tail2" />
+        <boneparent bone="SeaDemon TailNub" parent="SeaDemon Tail3" />
+        <boneparent bone="SeaDemon L Thigh" parent="SeaDemon Spine" />
+        <boneparent bone="SeaDemon L Calf" parent="SeaDemon L Thigh" />
+        <boneparent bone="SeaDemon L Foot" parent="SeaDemon L Calf" />
+        <boneparent bone="SeaDemon L Toe0" parent="SeaDemon L Foot" />
+        <boneparent bone="SeaDemon L Toe0Nub" parent="SeaDemon L Toe0" />
+    </bonehierarchy>
+    <animations>
+        <animation name="Attack" length="0.399792">
+            <tracks>
+                <track bone="SeaDemon Spine1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00113106" y="7.45058e-009" z="-0.000274897" />
+                            <rotate angle="0.304558">
+                                <axis x="-1.41731e-006" y="1" z="4.0434e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00113106" y="7.45058e-009" z="-0.000274897" />
+                            <rotate angle="0.304558">
+                                <axis x="-1.41731e-006" y="1" z="4.0434e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0.00113106" y="7.45058e-009" z="-0.000274897" />
+                            <rotate angle="0.304558">
+                                <axis x="-1.41731e-006" y="1" z="4.0434e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0.00113106" y="7.45058e-009" z="-0.000274897" />
+                            <rotate angle="0.304558">
+                                <axis x="-1.41731e-006" y="1" z="4.0434e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Spine2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00026083" y="-3.98457e-005" z="-5.78165e-005" />
+                            <rotate angle="0.141874">
+                                <axis x="0.129478" y="0.631837" z="0.76421" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00026083" y="-3.98457e-005" z="-5.78165e-005" />
+                            <rotate angle="0.141874">
+                                <axis x="0.129478" y="0.631837" z="0.76421" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0.00026083" y="-3.98457e-005" z="-5.78165e-005" />
+                            <rotate angle="0.141874">
+                                <axis x="0.129478" y="0.631837" z="0.76421" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0.00026083" y="-3.98457e-005" z="-5.78165e-005" />
+                            <rotate angle="0.141874">
+                                <axis x="0.129478" y="0.631837" z="0.76421" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Neck">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.05991e-005" y="5.53578e-006" z="0.000280261" />
+                            <rotate angle="0.101742">
+                                <axis x="-0.013374" y="-0.993963" z="-0.108895" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.05991e-005" y="5.53578e-006" z="0.000280261" />
+                            <rotate angle="0.101742">
+                                <axis x="-0.013374" y="-0.993963" z="-0.108895" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-9.05991e-005" y="5.53578e-006" z="0.000280261" />
+                            <rotate angle="0.101742">
+                                <axis x="-0.013374" y="-0.993963" z="-0.108895" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-9.05991e-005" y="5.53578e-006" z="0.000280261" />
+                            <rotate angle="0.101742">
+                                <axis x="-0.013374" y="-0.993963" z="-0.108895" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.0135014" y="-0.0214276" z="0.197249" />
+                            <rotate angle="0.101738">
+                                <axis x="-0.697847" y="0.662623" z="-0.271919" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.0135014" y="-0.0214276" z="0.197249" />
+                            <rotate angle="0.101738">
+                                <axis x="-0.697847" y="0.662623" z="-0.271919" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.0135014" y="-0.0214276" z="0.197249" />
+                            <rotate angle="0.101738">
+                                <axis x="-0.697847" y="0.662623" z="-0.271919" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-0.0135014" y="-0.0214276" z="0.197249" />
+                            <rotate angle="0.101738">
+                                <axis x="-0.697847" y="0.662623" z="-0.271919" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="0.848833">
+                                <axis x="-0.0541231" y="0.0410522" z="0.99769" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="1.00766">
+                                <axis x="-0.345111" y="0.436898" z="0.830674" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="0.997209">
+                                <axis x="0.325836" y="-0.113978" z="0.938531" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="1.39773">
+                                <axis x="0.612558" y="-0.445813" z="0.652704" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="0.947938">
+                                <axis x="0.218483" y="-0.0211177" z="0.975612" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="-4.76837e-007" z="1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-4.69312e-009" y="-1" z="2.28593e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="-4.76837e-007" z="-2.08616e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-3.40462e-008" y="-1" z="-1.42325e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="-4.76837e-007" z="-3.27826e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-2.58119e-008" y="-1" z="1.86839e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="4.76837e-007" z="1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-3.06159e-008" y="-1" z="-3.07728e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="4.76837e-007" z="0" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117319" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="-1.43051e-006" z="9.53674e-007" />
+                            <rotate angle="1.57212">
+                                <axis x="0.173731" y="-0.0236591" z="0.984509" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="0" y="1.43051e-006" z="0" />
+                            <rotate angle="0.949478">
+                                <axis x="0.174577" y="0.172806" z="0.969361" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.517502">
+                                <axis x="-0.0656304" y="0.878966" z="-0.472346" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-1.90735e-006" y="-1.43051e-006" z="4.76837e-007" />
+                            <rotate angle="0.447626">
+                                <axis x="-0.0298486" y="0.959769" z="-0.279198" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger0">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="-4.76837e-007" z="1.66893e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.928477" y="0.371391" z="0" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="2.38419e-007" y="1.43051e-006" z="7.15256e-007" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.742781" y="-0.371391" z="-0.557086" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="1.90735e-006" y="-9.53674e-007" z="1.66893e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.928477" y="0.371391" z="0" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="1.90735e-006" y="4.76837e-007" z="-2.14577e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.408248" y="-0.408248" z="-0.816497" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-1.90735e-006" z="9.53674e-007" />
+                            <rotate angle="0">
+                                <axis x="-0.732145" y="0.623394" z="0.274486" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="1.90735e-006" z="1.90735e-006" />
+                            <rotate angle="0.00750112">
+                                <axis x="0.0307259" y="0.213115" z="-0.976544" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-1.90735e-006" y="0" z="1.90735e-006" />
+                            <rotate angle="0.0531727">
+                                <axis x="-0.0307244" y="-0.213113" z="0.976544" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-1.90735e-006" y="4.76837e-007" z="9.53674e-007" />
+                            <rotate angle="0.114688">
+                                <axis x="-0.0307244" y="-0.213114" z="0.976544" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="4.76837e-007" z="9.53674e-007" />
+                            <rotate angle="0.107186">
+                                <axis x="-0.0307242" y="-0.213114" z="0.976544" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Head">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.144315">
+                                <axis x="-0.4819" y="-0.67118" z="-0.563285" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.144315">
+                                <axis x="-0.4819" y="-0.67118" z="-0.563285" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.144315">
+                                <axis x="-0.4819" y="-0.67118" z="-0.563285" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.144315">
+                                <axis x="-0.4819" y="-0.67118" z="-0.563285" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.161663" y="-0.0222683" z="0.223107" />
+                            <rotate angle="0.101745">
+                                <axis x="0.536427" y="0.808327" z="0.242595" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.161663" y="-0.0222683" z="0.223107" />
+                            <rotate angle="0.101745">
+                                <axis x="0.536427" y="0.808327" z="0.242595" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.161663" y="-0.0222683" z="0.223107" />
+                            <rotate angle="0.101745">
+                                <axis x="0.536427" y="0.808327" z="0.242595" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-0.161663" y="-0.0222683" z="0.223107" />
+                            <rotate angle="0.101745">
+                                <axis x="0.536427" y="0.808327" z="0.242595" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="9.53674e-007" z="4.76837e-007" />
+                            <rotate angle="0.91281">
+                                <axis x="-0.233136" y="-0.478337" z="-0.846665" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="9.53674e-007" z="4.76837e-007" />
+                            <rotate angle="0.91281">
+                                <axis x="-0.233136" y="-0.478337" z="-0.846665" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="9.53674e-007" z="4.76837e-007" />
+                            <rotate angle="0.91281">
+                                <axis x="-0.233136" y="-0.478337" z="-0.846665" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="9.53674e-007" z="4.76837e-007" />
+                            <rotate angle="0.91281">
+                                <axis x="-0.233136" y="-0.478337" z="-0.846665" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="-5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.24501e-007" y="-1" z="2.75711e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="-5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.24501e-007" y="-1" z="2.75711e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="-5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.24501e-007" y="-1" z="2.75711e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="-5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.24501e-007" y="-1" z="2.75711e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail3">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399792">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+            </tracks>
+        </animation>
+        <animation name="Cast" length="0.5">
+            <tracks>
+                <track bone="SeaDemon Spine1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.000136852" y="7.45058e-009" z="-1.34706e-005" />
+                            <rotate angle="0.035635">
+                                <axis x="-4.91767e-007" y="1" z="1.56335e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.000360489" y="1.49012e-008" z="1.46627e-005" />
+                            <rotate angle="0.0942812">
+                                <axis x="-7.23122e-007" y="-1" z="-5.38503e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-0.00105858" y="0" z="-5.44786e-005" />
+                            <rotate angle="0.277545">
+                                <axis x="-5.83243e-007" y="-1" z="-4.68983e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.00104237" y="7.45058e-009" z="-5.14984e-005" />
+                            <rotate angle="0.273221">
+                                <axis x="-9.28997e-007" y="-1" z="-4.68981e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-4.43459e-005" y="7.45058e-009" z="3.57628e-006" />
+                            <rotate angle="0.0116576">
+                                <axis x="-2.95525e-005" y="-1" z="-1.23828e-005" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0.00113106" y="7.45058e-009" z="-0.000274897" />
+                            <rotate angle="0.304558">
+                                <axis x="-1.41731e-006" y="1" z="4.0434e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Spine2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="2.86102e-006" y="-3.98532e-005" z="-4.76837e-007" />
+                            <rotate angle="0.109919">
+                                <axis x="0.122695" y="-0.000754367" z="0.992444" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.00028038" y="-3.98457e-005" z="3.6031e-005" />
+                            <rotate angle="0.14645">
+                                <axis x="0.0559806" y="-0.660525" z="0.748714" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-0.00069809" y="-3.97712e-005" z="3.8743e-005" />
+                            <rotate angle="0.262353">
+                                <axis x="0.00161946" y="-0.907573" z="0.419892" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.000745773" y="-3.98457e-005" z="3.52859e-005" />
+                            <rotate angle="0.277301">
+                                <axis x="-0.00172753" y="-0.91765" z="0.397386" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-0.000290394" y="-3.98755e-005" z="3.66867e-005" />
+                            <rotate angle="0.148801">
+                                <axis x="0.0537692" y="-0.673738" z="0.737011" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0.00026083" y="-3.98457e-005" z="-5.78165e-005" />
+                            <rotate angle="0.141874">
+                                <axis x="0.129478" y="0.631837" z="0.76421" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Neck">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-3.8147e-006" y="1.86265e-007" z="1.52588e-005" />
+                            <rotate angle="0.00507437">
+                                <axis x="-0.0133777" y="-0.993964" z="-0.108887" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.000160217" y="1.05724e-005" z="0.000447989" />
+                            <rotate angle="0.164463">
+                                <axis x="-0.0133725" y="-0.993967" z="-0.108864" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-0.000528336" y="4.15612e-005" z="0.00105083" />
+                            <rotate angle="0.409176">
+                                <axis x="-0.0133724" y="-0.993967" z="-0.108864" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.000659466" y="5.35622e-005" z="0.00120544" />
+                            <rotate angle="0.47969">
+                                <axis x="-0.0133725" y="-0.993967" z="-0.108865" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-0.000369072" y="2.7515e-005" z="0.000829101" />
+                            <rotate angle="0.314659">
+                                <axis x="-0.0133727" y="-0.993966" z="-0.108869" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-9.05991e-005" y="5.53578e-006" z="0.000280261" />
+                            <rotate angle="0.101742">
+                                <axis x="-0.013374" y="-0.993963" z="-0.108895" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.00116229" y="-0.00106955" z="0.00990391" />
+                            <rotate angle="0.00502716">
+                                <axis x="-0.697835" y="0.662634" z="-0.271924" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.0117862" y="-0.0347943" z="0.319132" />
+                            <rotate angle="0.164463">
+                                <axis x="-0.697827" y="0.662647" z="-0.271913" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="0.0679698" y="-0.0870929" z="0.786839" />
+                            <rotate angle="0.409176">
+                                <axis x="-0.697827" y="0.662647" z="-0.271913" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0.112052" y="-0.1019" z="0.916615" />
+                            <rotate angle="0.479689">
+                                <axis x="-0.697827" y="0.662646" z="-0.271913" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0.0235336" y="-0.0669818" z="0.60864" />
+                            <rotate angle="0.314659">
+                                <axis x="-0.69783" y="0.662643" z="-0.271914" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-0.0135014" y="-0.0214276" z="0.197249" />
+                            <rotate angle="0.101738">
+                                <axis x="-0.697847" y="0.662623" z="-0.271919" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-4.76837e-007" y="0" z="-8.34465e-007" />
+                            <rotate angle="0.879927">
+                                <axis x="-0.225009" y="0.189727" z="0.955706" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.53674e-007" y="9.53674e-007" z="-8.9407e-007" />
+                            <rotate angle="0.851602">
+                                <axis x="-0.06665" y="0.0564141" z="0.99618" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="4.76837e-007" y="0" z="-5.96046e-007" />
+                            <rotate angle="0.849806">
+                                <axis x="0.028585" y="-0.0269392" z="0.999228" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="4.76837e-007" y="-9.53674e-007" z="-8.9407e-007" />
+                            <rotate angle="0.877779">
+                                <axis x="0.193157" y="-0.168564" z="0.96658" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0" y="0" z="-3.57628e-007" />
+                            <rotate angle="0.865444">
+                                <axis x="0.135581" y="-0.138339" z="0.981061" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="0.848833">
+                                <axis x="-0.0541231" y="0.0410522" z="0.99769" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-4.76837e-007" z="-1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-1.16045e-008" y="-1" z="1.9243e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="-4.76837e-007" z="8.9407e-008" />
+                            <rotate angle="0.767945">
+                                <axis x="-3.66517e-008" y="-1" z="1.3392e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="9.53674e-007" y="-1.43051e-006" z="2.08616e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-1.51039e-008" y="-1" z="-9.34264e-009" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-9.53674e-007" y="-4.76837e-007" z="1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-4.69312e-009" y="-1" z="2.28593e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-2.38419e-006" z="-1.90735e-006" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117319" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="-1.43051e-006" z="-1.90735e-006" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117319" y="0.828752" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-1.90735e-006" y="4.76837e-007" z="9.53674e-007" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117318" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="9.53674e-007" y="-2.38419e-006" z="9.53674e-007" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117318" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0" y="1.43051e-006" z="-9.53674e-007" />
+                            <rotate angle="0.39435">
+                                <axis x="0.0759174" y="0.952191" z="0.29592" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="1.90735e-006" y="4.76837e-007" z="0" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117319" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger0">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-4.76837e-007" z="1.66893e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.436436" y="-0.218218" z="-0.872872" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="4.76837e-007" z="7.15256e-007" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.742781" y="-0.371391" z="-0.557086" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="1.90735e-006" y="-4.76837e-007" z="7.15256e-007" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.742781" y="-0.371391" z="-0.557086" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="1.90735e-006" y="-4.76837e-007" z="1.66893e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.928477" y="0.371391" z="0" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-9.53674e-007" z="1.90735e-006" />
+                            <rotate angle="0">
+                                <axis x="-0.553362" y="0.784958" z="-0.278624" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="9.53674e-007" z="2.86102e-006" />
+                            <rotate angle="0">
+                                <axis x="0.00523194" y="0.942549" z="-0.334028" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="2.86102e-006" />
+                            <rotate angle="0">
+                                <axis x="-0.202376" y="0.958791" z="-0.199411" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="9.53674e-007" y="-1.90735e-006" z="9.53674e-007" />
+                            <rotate angle="0">
+                                <axis x="-0.732145" y="0.623394" z="0.274486" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Head">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-5.96046e-008" z="0" />
+                            <rotate angle="0.197888">
+                                <axis x="-0.299414" y="0.833649" z="-0.464091" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="-5.96046e-008" z="-9.53674e-007" />
+                            <rotate angle="5.72097">
+                                <axis x="0.0759328" y="-0.979272" z="0.187781" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="0" y="-1.49012e-008" z="-9.53674e-007" />
+                            <rotate angle="5.15702">
+                                <axis x="0.0134507" y="-0.994043" z="0.108153" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="9.53674e-007" y="-8.9407e-008" z="4.76837e-007" />
+                            <rotate angle="5.07485">
+                                <axis x="0.00896009" y="-0.994703" z="0.102395" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0" y="0" z="0" />
+                            <rotate angle="5.65109">
+                                <axis x="0.0624097" y="-0.983355" z="0.170642" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.144315">
+                                <axis x="-0.4819" y="-0.67118" z="-0.563285" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.00868917" y="-0.00107193" z="0.010849" />
+                            <rotate angle="0.00512114">
+                                <axis x="0.53643" y="0.808325" z="0.242596" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.249619" y="-0.0369835" z="0.368326" />
+                            <rotate angle="0.164464">
+                                <axis x="0.536452" y="0.808309" z="0.242602" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="-0.501057" y="-0.10048" z="0.978962" />
+                            <rotate angle="0.409177">
+                                <axis x="0.536452" y="0.808309" z="0.242603" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="-0.54495" y="-0.120203" z="1.16442" />
+                            <rotate angle="0.47969">
+                                <axis x="0.536451" y="0.808309" z="0.242602" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-0.421849" y="-0.0749445" z="0.736047" />
+                            <rotate angle="0.31466">
+                                <axis x="0.536448" y="0.808312" z="0.242601" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-0.161663" y="-0.0222683" z="0.223107" />
+                            <rotate angle="0.101745">
+                                <axis x="0.536427" y="0.808327" z="0.242595" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="1.90735e-006" z="0" />
+                            <rotate angle="0.86002">
+                                <axis x="-0.162091" y="-0.414894" z="-0.895315" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="1.90735e-006" z="1.19209e-007" />
+                            <rotate angle="0.968712">
+                                <axis x="-0.289774" y="-0.526573" z="-0.79922" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.199583">
+                            <translate x="0" y="0" z="5.96046e-008" />
+                            <rotate angle="0.999772">
+                                <axis x="-0.315792" y="-0.547962" z="-0.774605" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.299375">
+                            <translate x="0" y="9.53674e-007" z="5.36442e-007" />
+                            <rotate angle="1.09915">
+                                <axis x="-0.381629" y="-0.599724" z="-0.703342" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-4.76837e-007" y="9.53674e-007" z="-2.38419e-007" />
+                            <rotate angle="1.07354">
+                                <axis x="-0.366714" y="-0.588335" z="-0.720682" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0" y="9.53674e-007" z="4.76837e-007" />
+                            <rotate angle="0.91281">
+                                <axis x="-0.233136" y="-0.478337" z="-0.846665" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="9.53674e-007" z="0" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.05071e-007" y="-1" z="8.51502e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="-9.53674e-007" z="1.01328e-006" />
+                            <rotate angle="0.0959959">
+                                <axis x="-2.17704e-007" y="-1" z="3.69918e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="9.53674e-007" y="-9.53674e-007" z="-2.98023e-007" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.10862e-007" y="-1" z="3.66154e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-9.53674e-007" y="-9.53674e-007" z="-5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.24501e-007" y="-1" z="2.75711e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="-1.43051e-006" z="0" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784226" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="-1.43051e-006" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="2.86102e-006" y="4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="0.532689">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="1.90735e-006" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail3">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0995833">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.399375">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.5">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+            </tracks>
+        </animation>
+        <animation name="Stand" length="0.0664583">
+            <tracks>
+                <track bone="SeaDemon Spine1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.000188828" y="7.45058e-009" z="-2.0504e-005" />
+                            <rotate angle="0.0491942">
+                                <axis x="-1.8832e-007" y="1" z="2.32707e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0.000136852" y="7.45058e-009" z="-1.34706e-005" />
+                            <rotate angle="0.035635">
+                                <axis x="-4.91767e-007" y="1" z="1.56335e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Spine2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="3.19481e-005" y="-3.98159e-005" z="-5.36442e-006" />
+                            <rotate angle="0.110402">
+                                <axis x="0.127279" y="0.0929805" z="0.987499" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="2.86102e-006" y="-3.98532e-005" z="-4.76837e-007" />
+                            <rotate angle="0.109919">
+                                <axis x="0.122695" y="-0.000754367" z="0.992444" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Neck">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="8.58307e-006" y="-4.84288e-007" z="-3.38554e-005" />
+                            <rotate angle="0.0120992">
+                                <axis x="0.0133694" y="0.993968" z="0.108852" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-3.8147e-006" y="1.86265e-007" z="1.52588e-005" />
+                            <rotate angle="0.00507437">
+                                <axis x="-0.0133777" y="-0.993964" z="-0.108887" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00295901" y="0.00252199" z="-0.0234008" />
+                            <rotate angle="0.0121188">
+                                <axis x="0.697817" y="-0.662658" z="0.271913" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-0.00116229" y="-0.00106955" z="0.00990391" />
+                            <rotate angle="0.00502716">
+                                <axis x="-0.697835" y="0.662634" z="-0.271924" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="9.53674e-007" z="-1.19209e-006" />
+                            <rotate angle="0.910969">
+                                <axis x="-0.312052" y="0.260244" z="0.913727" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-4.76837e-007" y="0" z="-8.34465e-007" />
+                            <rotate angle="0.879927">
+                                <axis x="-0.225009" y="0.189727" z="0.955706" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-4.76837e-007" z="8.9407e-008" />
+                            <rotate angle="0.767945">
+                                <axis x="-1.95286e-008" y="-1" z="5.13419e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="-4.76837e-007" z="-1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-1.16045e-008" y="-1" z="1.9243e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117318" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="-2.38419e-006" z="-1.90735e-006" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117319" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger0">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-4.76837e-007" z="2.6226e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.218218" y="-0.436436" z="-0.872872" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="-4.76837e-007" z="1.66893e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.436436" y="-0.218218" z="-0.872872" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="9.53674e-007" z="2.86102e-006" />
+                            <rotate angle="0">
+                                <axis x="-0.490738" y="-0.145395" z="0.859091" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="-9.53674e-007" z="1.90735e-006" />
+                            <rotate angle="0">
+                                <axis x="-0.553362" y="0.784958" z="-0.278624" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Head">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-5.96046e-008" z="9.53674e-007" />
+                            <rotate angle="0.164898">
+                                <axis x="-0.36944" y="0.750992" z="-0.547289" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="-5.96046e-008" z="0" />
+                            <rotate angle="0.197888">
+                                <axis x="-0.299414" y="0.833649" z="-0.464091" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.0207701" y="0.00251055" z="-0.0254788" />
+                            <rotate angle="0.0121188">
+                                <axis x="-0.536459" y="-0.808304" z="-0.242605" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-0.00868917" y="-0.00107193" z="0.010849" />
+                            <rotate angle="0.00512114">
+                                <axis x="0.53643" y="0.808325" z="0.242596" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="1.90735e-006" z="-3.57628e-007" />
+                            <rotate angle="0.784222">
+                                <axis x="0.0114671" y="-0.247724" z="-0.968763" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="1.90735e-006" z="0" />
+                            <rotate angle="0.86002">
+                                <axis x="-0.162091" y="-0.414894" z="-0.895315" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-2.86102e-006" z="2.38419e-007" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.50828e-007" y="-1" z="3.61872e-009" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="9.53674e-007" y="9.53674e-007" z="0" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.05071e-007" y="-1" z="8.51502e-007" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="1.43051e-006" z="4.76837e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="1.90735e-006" y="-1.43051e-006" z="0" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784226" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25684">
+                                <axis x="0.29024" y="0.939851" z="-0.180112" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.014118">
+                                <axis x="-0.292629" y="-0.938739" z="0.182037" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="7.15256e-007" z="-9.53674e-007" />
+                            <rotate angle="0.00811194">
+                                <axis x="-3.02855e-006" y="-1" z="-4.10643e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-9.53674e-007" y="0" z="1.90735e-006" />
+                            <rotate angle="0.00458049">
+                                <axis x="-1.14159e-005" y="-1" z="6.32892e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="2.86102e-006" y="4.76837e-007" z="0" />
+                            <rotate angle="0.0750887">
+                                <axis x="-0.169064" y="0.982509" z="-0.0780539" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="9.53674e-007" y="-7.15256e-007" z="3.8147e-006" />
+                            <rotate angle="0.0599357">
+                                <axis x="-0.114852" y="0.990083" z="-0.080899" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail3">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.0664583">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+            </tracks>
+        </animation>
+        <animation name="Walk" length="1.33333">
+            <tracks>
+                <track bone="SeaDemon Spine1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.000235558" y="7.45058e-009" z="-2.75373e-005" />
+                            <rotate angle="0.0615762">
+                                <axis x="-1.21182e-012" y="1" z="2.72989e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0.000241756" y="0" z="-2.8491e-005" />
+                            <rotate angle="0.0635018">
+                                <axis x="1.35515e-008" y="1" z="2.77871e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0.000277996" y="0" z="-3.42131e-005" />
+                            <rotate angle="0.0729559">
+                                <axis x="8.57688e-008" y="1" z="2.98045e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0.00031662" y="7.45058e-009" z="-4.01735e-005" />
+                            <rotate angle="0.0830999">
+                                <axis x="1.4527e-007" y="1" z="3.14592e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0.000331879" y="7.45058e-009" z="-4.3273e-005" />
+                            <rotate angle="0.0870991">
+                                <axis x="1.62849e-007" y="1" z="3.20068e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0.000298023" y="0" z="-3.75509e-005" />
+                            <rotate angle="0.07813">
+                                <axis x="1.0848e-007" y="1" z="3.07052e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0.000188828" y="7.45058e-009" z="-2.0504e-005" />
+                            <rotate angle="0.0491942">
+                                <axis x="-1.8832e-007" y="1" z="2.32707e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Spine2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="3.62396e-005" y="-3.98457e-005" z="-6.19888e-006" />
+                            <rotate angle="0.110532">
+                                <axis x="0.12778" y="0.104801" z="0.98625" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="4.52995e-005" y="-3.98308e-005" z="-8.34465e-006" />
+                            <rotate angle="0.110879">
+                                <axis x="0.12883" y="0.131071" z="0.982966" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="7.00951e-005" y="-3.98606e-005" z="-1.32322e-005" />
+                            <rotate angle="0.112398">
+                                <axis x="0.131421" y="0.20874" z="0.969101" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="9.77516e-005" y="-3.98606e-005" z="-1.89543e-005" />
+                            <rotate angle="0.114759">
+                                <axis x="0.133228" y="0.287059" z="0.948603" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0.000110626" y="-3.98234e-005" z="-2.14577e-005" />
+                            <rotate angle="0.116164">
+                                <axis x="0.133775" y="0.323182" z="0.936834" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="9.39369e-005" y="-3.98755e-005" z="-1.80602e-005" />
+                            <rotate angle="0.114444">
+                                <axis x="0.133064" y="0.278145" z="0.951278" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="3.19481e-005" y="-3.98159e-005" z="-5.36442e-006" />
+                            <rotate angle="0.110402">
+                                <axis x="0.127279" y="0.0929805" z="0.987499" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Neck">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-006" y="5.43892e-007" z="3.61204e-005" />
+                            <rotate angle="0.0126953">
+                                <axis x="-0.0133784" y="-0.993964" z="-0.108889" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-2.38419e-006" y="8.19564e-008" z="7.86781e-006" />
+                            <rotate angle="0.00276214">
+                                <axis x="-0.0133944" y="-0.993955" z="-0.108966" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="1.28746e-005" y="-6.18398e-007" z="-4.88758e-005" />
+                            <rotate angle="0.0177402">
+                                <axis x="0.0133685" y="0.993968" z="0.10885" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="2.81334e-005" y="-1.45286e-006" z="-0.000110745" />
+                            <rotate angle="0.0393186">
+                                <axis x="0.0133711" y="0.993967" z="0.108858" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="3.57628e-005" y="-1.67638e-006" z="-0.000146866" />
+                            <rotate angle="0.0521265">
+                                <axis x="0.0133716" y="0.993967" z="0.10886" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="3.19481e-005" y="-1.49757e-006" z="-0.000130534" />
+                            <rotate angle="0.04638">
+                                <axis x="0.0133714" y="0.993967" z="0.10886" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="8.58307e-006" y="-4.84288e-007" z="-3.38554e-005" />
+                            <rotate angle="0.0120992">
+                                <axis x="0.0133694" y="0.993968" z="0.108852" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.00278473" y="-0.00264692" z="0.0245075" />
+                            <rotate angle="0.0126577">
+                                <axis x="-0.69784" y="0.66263" z="-0.27192" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-0.000651836" y="-0.000595093" z="0.00550461" />
+                            <rotate angle="0.00267443">
+                                <axis x="-0.697904" y="0.662562" z="-0.271922" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0.00442481" y="0.0036869" z="-0.0342188" />
+                            <rotate angle="0.0177133">
+                                <axis x="0.697814" y="-0.662662" z="0.271909" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0.0106251" y="0.00815153" z="-0.0757318" />
+                            <rotate angle="0.0393126">
+                                <axis x="0.697823" y="-0.662651" z="0.271913" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0.0147295" y="0.0107861" z="-0.100293" />
+                            <rotate angle="0.0521219">
+                                <axis x="0.697823" y="-0.662651" z="0.271912" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0.0128481" y="0.00960493" z="-0.0892787" />
+                            <rotate angle="0.0463749">
+                                <axis x="0.697824" y="-0.66265" z="0.271912" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0.00295901" y="0.00252199" z="-0.0234008" />
+                            <rotate angle="0.0121188">
+                                <axis x="0.697817" y="-0.662658" z="0.271913" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="5.96046e-007" />
+                            <rotate angle="0.828461">
+                                <axis x="0.0111684" y="-0.0732352" z="0.997252" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="0" z="-4.17233e-007" />
+                            <rotate angle="1.11153">
+                                <axis x="-0.56616" y="0.424567" z="0.706545" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="9.53674e-007" y="0" z="0" />
+                            <rotate angle="1.13706">
+                                <axis x="-0.580961" y="0.437188" z="0.68655" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="-4.76837e-007" y="9.53674e-007" z="-7.15256e-007" />
+                            <rotate angle="0.868144">
+                                <axis x="-0.283399" y="0.168453" z="0.944091" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0" y="9.53674e-007" z="0" />
+                            <rotate angle="0.865039">
+                                <axis x="0.209856" y="-0.240204" z="0.947767" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="4.76837e-007" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.857658">
+                                <axis x="0.182961" y="-0.195599" z="0.963466" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="9.53674e-007" z="-1.19209e-006" />
+                            <rotate angle="0.910969">
+                                <axis x="-0.312052" y="0.260244" z="0.913727" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="-4.76837e-007" z="1.19209e-007" />
+                            <rotate angle="0">
+                                <axis x="0.0302655" y="2.6063e-009" z="-0.999542" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="4.76837e-007" z="3.8743e-007" />
+                            <rotate angle="0.58749">
+                                <axis x="3.20126e-008" y="-1" z="1.21139e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="-9.53674e-007" y="-4.76837e-007" z="1.49012e-007" />
+                            <rotate angle="0.827111">
+                                <axis x="-3.73689e-008" y="-1" z="1.68692e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0" y="-4.76837e-007" z="2.68221e-007" />
+                            <rotate angle="0.83202">
+                                <axis x="-1.89153e-009" y="-1" z="6.30302e-009" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="-1.90735e-006" y="-4.76837e-007" z="3.8743e-007" />
+                            <rotate angle="0.779903">
+                                <axis x="-1.52088e-009" y="-1" z="4.29201e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-9.53674e-007" y="4.76837e-007" z="1.49012e-007" />
+                            <rotate angle="0.767945">
+                                <axis x="-3.47478e-009" y="-1" z="5.73812e-009" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="-4.76837e-007" z="8.9407e-008" />
+                            <rotate angle="0.767945">
+                                <axis x="-1.95286e-008" y="-1" z="5.13419e-008" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="9.53674e-007" y="1.43051e-006" z="2.38419e-007" />
+                            <rotate angle="0.430293">
+                                <axis x="0.0818542" y="0.9933" z="0.0815837" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="-1.43051e-006" z="9.53674e-007" />
+                            <rotate angle="0.562713">
+                                <axis x="0.0302045" y="0.927384" z="-0.37289" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="1.90735e-006" y="-1.43051e-006" z="0" />
+                            <rotate angle="0.563062">
+                                <axis x="0.0300791" y="0.927135" z="-0.373519" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0" y="-4.76837e-007" z="0" />
+                            <rotate angle="0.457504">
+                                <axis x="0.0654505" y="0.99484" z="-0.0775179" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0" y="-4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.412212">
+                                <axis x="0.107376" y="0.915363" z="0.388048" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0" y="-1.43051e-006" z="9.53674e-007" />
+                            <rotate angle="0.426403">
+                                <axis x="0.119736" y="0.794466" z="0.595388" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="1.90735e-006" y="4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.420605">
+                                <axis x="0.117318" y="0.828753" z="0.54718" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger0">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-2.38419e-007" z="3.57628e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.408248" y="-0.408248" z="-0.816497" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="2.86102e-006" y="-4.76837e-007" z="-2.38419e-007" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.742781" y="-0.371391" z="-0.557086" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="9.53674e-007" y="-1.43051e-006" z="7.15256e-007" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.721995" y="-0.309426" z="-0.618853" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="9.53674e-007" y="-4.76837e-007" z="2.6226e-006" />
+                            <rotate angle="0.000690534">
+                                <axis x="0.218218" y="-0.436436" z="-0.872872" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Finger1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="2.38419e-007" z="2.86102e-006" />
+                            <rotate angle="0">
+                                <axis x="0.530028" y="0.312056" z="-0.788474" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="9.53674e-007" y="9.53674e-007" z="9.53674e-007" />
+                            <rotate angle="0">
+                                <axis x="-0.292296" y="0.849836" z="0.438568" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0">
+                                <axis x="0.442868" y="0.613028" z="0.654266" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="9.53674e-007" z="2.86102e-006" />
+                            <rotate angle="0">
+                                <axis x="-0.490738" y="-0.145395" z="0.859091" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Head">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="-1.78814e-007" z="0" />
+                            <rotate angle="0.17346">
+                                <axis x="-0.348615" y="0.77794" z="-0.52276" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="0" z="0" />
+                            <rotate angle="0.162192">
+                                <axis x="-0.376495" y="0.741361" z="-0.55555" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0" y="0" z="9.53674e-007" />
+                            <rotate angle="0.135562">
+                                <axis x="-0.461976" y="0.599715" z="-0.653391" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="9.53674e-007" y="-5.96046e-008" z="0" />
+                            <rotate angle="0.115308">
+                                <axis x="-0.557274" y="0.347964" z="-0.753901" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="-9.53674e-007" y="0" z="0" />
+                            <rotate angle="0.109532">
+                                <axis x="-0.594355" y="0.171043" z="-0.785803" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0" y="0" z="0" />
+                            <rotate angle="0.114964">
+                                <axis x="-0.559281" y="0.340499" z="-0.755821" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="-5.96046e-008" z="9.53674e-007" />
+                            <rotate angle="0.164898">
+                                <axis x="-0.36944" y="0.750992" z="-0.547289" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Clavicle">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.0213909" y="-0.00266075" z="0.0269136" />
+                            <rotate angle="0.0126577">
+                                <axis x="0.536432" y="0.808322" z="0.242603" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-0.00483894" y="-0.000596046" z="0.00602531" />
+                            <rotate angle="0.00276214">
+                                <axis x="0.536382" y="0.808351" z="0.242617" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0.0304873" y="0.00366163" z="-0.0371866" />
+                            <rotate angle="0.0177402">
+                                <axis x="-0.536462" y="-0.8083" z="-0.242608" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0.0684609" y="0.00802469" z="-0.0816908" />
+                            <rotate angle="0.0393308">
+                                <axis x="-0.536455" y="-0.808307" z="-0.242603" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0.0914421" y="0.0105648" z="-0.107703" />
+                            <rotate angle="0.0521356">
+                                <axis x="-0.536455" y="-0.808307" z="-0.242603" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0.0810895" y="0.00942993" z="-0.0960674" />
+                            <rotate angle="0.0463955">
+                                <axis x="-0.536455" y="-0.808307" z="-0.242604" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0.0207701" y="0.00251055" z="-0.0254788" />
+                            <rotate angle="0.0121188">
+                                <axis x="-0.536459" y="-0.808304" z="-0.242605" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L UpperArm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-4.76837e-007" y="1.90735e-006" z="-5.96046e-008" />
+                            <rotate angle="0.770047">
+                                <axis x="0.121393" y="-0.222405" z="-0.967367" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-1.43051e-006" y="0" z="2.38419e-007" />
+                            <rotate angle="0.911248">
+                                <axis x="-0.195757" y="-0.537128" z="-0.820471" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="-9.53674e-007" y="1.90735e-006" z="-2.38419e-007" />
+                            <rotate angle="0.862765">
+                                <axis x="-0.141695" y="-0.485872" z="-0.862468" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="9.53674e-007" y="1.90735e-006" z="-4.76837e-007" />
+                            <rotate angle="0.751617">
+                                <axis x="0.268588" y="-0.0410878" z="-0.962378" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0" y="0" z="1.19209e-007" />
+                            <rotate angle="0.912523">
+                                <axis x="0.552018" y="0.378572" z="-0.74294" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-9.53674e-007" y="9.53674e-007" z="-1.19209e-007" />
+                            <rotate angle="0.907979">
+                                <axis x="0.534215" y="0.378146" z="-0.756056" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="-9.53674e-007" y="1.90735e-006" z="-3.57628e-007" />
+                            <rotate angle="0.784222">
+                                <axis x="0.0114671" y="-0.247724" z="-0.968763" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Forearm">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="5.96046e-008" />
+                            <rotate angle="0.0959934">
+                                <axis x="-9.16328e-008" y="-1" z="-1.58966e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-9.53674e-007" y="9.53674e-007" z="0" />
+                            <rotate angle="0.0959934">
+                                <axis x="-2.06856e-008" y="-1" z="8.37282e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="9.53674e-007" y="-9.53674e-007" z="-1.78814e-007" />
+                            <rotate angle="0.0959934">
+                                <axis x="1.58051e-007" y="-1" z="1.65161e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="-2.86102e-006" z="2.38419e-007" />
+                            <rotate angle="0.0959934">
+                                <axis x="-1.50828e-007" y="-1" z="3.61872e-009" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Hand">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="2.86102e-006" y="-4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="0.340203">
+                                <axis x="-0.176644" y="0.981166" z="-0.0781679" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="5.72205e-006" y="4.76837e-007" z="-1.43051e-006" />
+                            <rotate angle="0.345239">
+                                <axis x="-0.211361" y="0.943575" z="-0.254937" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="2.86102e-006" y="-4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="0.373147">
+                                <axis x="-0.244921" y="0.851622" z="-0.463415" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="3.8147e-006" y="4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="0.432362">
+                                <axis x="-0.265613" y="0.714562" z="-0.647188" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="3.8147e-006" y="4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.502908">
+                                <axis x="-0.271741" y="0.597469" z="-0.754446" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="9.53674e-007" y="2.38419e-006" z="-4.76837e-007" />
+                            <rotate angle="0.544175">
+                                <axis x="-0.272265" y="0.543301" z="-0.794164" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="9.53674e-007" y="1.43051e-006" z="4.76837e-007" />
+                            <rotate angle="0.53269">
+                                <axis x="-0.272248" y="0.557557" z="-0.784227" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.0146972">
+                                <axis x="-0.29251" y="-0.938792" z="0.181956" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.222838">
+                                <axis x="0.46979" y="0.762935" z="-0.444103" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0" y="0" z="0" />
+                            <rotate angle="0.123523">
+                                <axis x="0.699564" y="-0.176381" z="-0.692459" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="-9.53674e-007" y="-4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="5.74584">
+                                <axis x="0.0618799" y="0.997449" z="-0.0355934" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="5.28031">
+                                <axis x="0.154962" y="0.979681" z="-0.127324" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="5.38452">
+                                <axis x="0.177621" y="0.972771" z="-0.148886" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25684">
+                                <axis x="0.29024" y="0.939851" z="-0.180112" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-2.86102e-006" y="2.38419e-007" z="9.53674e-007" />
+                            <rotate angle="0.00468343">
+                                <axis x="-1.16157e-005" y="-1" z="3.04761e-006" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-9.53674e-007" y="-4.76837e-007" z="9.53674e-007" />
+                            <rotate angle="0.533411">
+                                <axis x="1.41206e-008" y="1" z="3.87015e-009" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="-9.53674e-007" y="-2.38419e-007" z="1.90735e-006" />
+                            <rotate angle="0.714157">
+                                <axis x="4.35545e-008" y="1" z="-2.61357e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="-9.53674e-007" y="5.96046e-007" z="9.53674e-007" />
+                            <rotate angle="0.668716">
+                                <axis x="-4.18938e-008" y="1" z="-4.7793e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="-9.53674e-007" y="2.98023e-007" z="4.76837e-007" />
+                            <rotate angle="0.537546">
+                                <axis x="-5.29611e-009" y="1" z="-7.15593e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-2.86102e-006" y="1.78814e-007" z="1.90735e-006" />
+                            <rotate angle="0.33411">
+                                <axis x="9.004e-008" y="1" z="-1.03216e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="-9.53674e-007" y="7.15256e-007" z="-9.53674e-007" />
+                            <rotate angle="0.00811194">
+                                <axis x="-3.02855e-006" y="-1" z="-4.10643e-007" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon R Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="1.90735e-006" y="-7.15256e-007" z="0" />
+                            <rotate angle="0.0192733">
+                                <axis x="-0.371416" y="0.926852" z="-0.054721" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="-2.38419e-007" z="9.53674e-007" />
+                            <rotate angle="0.71963">
+                                <axis x="0.346872" y="-0.937911" z="-0.00153515" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0" y="1.43051e-006" z="0" />
+                            <rotate angle="0.697145">
+                                <axis x="0.335711" y="-0.941534" z="-0.0284933" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="1.90735e-006" y="0" z="9.53674e-007" />
+                            <rotate angle="0.122167">
+                                <axis x="0.375358" y="-0.758561" z="-0.532627" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="-1.90735e-006" y="1.66893e-006" z="3.8147e-006" />
+                            <rotate angle="0.521583">
+                                <axis x="-0.315878" y="0.927086" z="-0.201822" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0" y="-2.08616e-006" z="0" />
+                            <rotate angle="0.619797">
+                                <axis x="-0.350598" y="0.923919" z="-0.153151" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="2.86102e-006" y="4.76837e-007" z="0" />
+                            <rotate angle="0.0750887">
+                                <axis x="-0.169064" y="0.982509" z="-0.0780539" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail1">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="-0.000734329" y="-0.00092449" z="-0.000151634" />
+                            <rotate angle="0.199416">
+                                <axis x="0.749612" y="-0.648612" z="0.131854" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail2">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0.00145912" y="0.000950098" z="-0.00060463" />
+                            <rotate angle="0.310761">
+                                <axis x="-0.521729" y="0.84053" z="0.145973" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon Tail3">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0.00167847" y="-0.00122662" z="-0.000448227" />
+                            <rotate angle="0.36312">
+                                <axis x="0.541981" y="0.813661" z="-0.21027" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Thigh">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.12469">
+                                <axis x="-0.268248" y="0.949185" z="0.164593" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="5.38923">
+                                <axis x="-0.186217" y="0.970767" z="0.15144" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="0" y="0" z="0" />
+                            <rotate angle="5.32356">
+                                <axis x="-0.15506" y="0.980565" z="0.120199" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="0" y="4.76837e-007" z="-4.76837e-007" />
+                            <rotate angle="5.73051">
+                                <axis x="-0.0475291" y="0.998866" z="-0.00289556" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.10843">
+                                <axis x="0.52016" y="0.576694" z="-0.629966" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="0.182005">
+                                <axis x="-0.586443" y="0.485399" z="0.648439" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="0" y="0" z="-2.38419e-007" />
+                            <rotate angle="6.25303">
+                                <axis x="-0.28951" y="0.940187" z="0.179534" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Calf">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-2.86102e-006" y="3.57628e-007" z="-9.53674e-007" />
+                            <rotate angle="0.024159">
+                                <axis x="8.20568e-007" y="-1" z="-3.9185e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="-2.86102e-006" y="4.76837e-007" z="-1.43051e-006" />
+                            <rotate angle="0.282814">
+                                <axis x="2.00558e-008" y="1" z="-1.85806e-007" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="-3.8147e-006" y="-8.34465e-007" z="-1.43051e-006" />
+                            <rotate angle="0.538033">
+                                <axis x="5.94225e-008" y="1" z="-5.88044e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="-3.8147e-006" y="9.53674e-007" z="-9.53674e-007" />
+                            <rotate angle="0.811577">
+                                <axis x="3.89052e-008" y="1" z="-1.36828e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="-2.86102e-006" y="2.38419e-007" z="-1.90735e-006" />
+                            <rotate angle="0.980329">
+                                <axis x="6.95193e-008" y="1" z="-6.61873e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-3.8147e-006" y="4.76837e-007" z="-9.53674e-007" />
+                            <rotate angle="0.773131">
+                                <axis x="4.65521e-008" y="1" z="-8.19014e-008" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="-3.8147e-006" y="7.15256e-007" z="0" />
+                            <rotate angle="0.00916098">
+                                <axis x="3.78182e-007" y="-1" z="-3.87267e-006" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+                <track bone="SeaDemon L Foot">
+                    <keyframes>
+                        <keyframe time="0">
+                            <translate x="-9.53674e-007" y="-2.26498e-006" z="0" />
+                            <rotate angle="0.181578">
+                                <axis x="0.374373" y="0.924875" z="0.0667191" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.221875">
+                            <translate x="0" y="-4.76837e-007" z="-1.90735e-006" />
+                            <rotate angle="0.622871">
+                                <axis x="0.378135" y="0.916094" z="0.13336" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.443958">
+                            <translate x="-1.90735e-006" y="5.96046e-007" z="-1.90735e-006" />
+                            <rotate angle="0.443807">
+                                <axis x="0.328681" y="0.919306" z="0.216439" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.666042">
+                            <translate x="-9.53674e-007" y="-2.38419e-007" z="0" />
+                            <rotate angle="0.260789">
+                                <axis x="-0.377292" y="-0.885853" z="0.270029" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="0.888125">
+                            <translate x="9.53674e-007" y="0" z="4.76837e-007" />
+                            <rotate angle="0.890138">
+                                <axis x="-0.326953" y="-0.94422" z="0.0393696" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.11021">
+                            <translate x="-2.86102e-006" y="-1.66893e-006" z="-1.43051e-006" />
+                            <rotate angle="0.875318">
+                                <axis x="-0.338289" y="-0.940872" z="0.0179036" />
+                            </rotate>
+                        </keyframe>
+                        <keyframe time="1.33333">
+                            <translate x="9.53674e-007" y="-5.96046e-007" z="0" />
+                            <rotate angle="0.0388857">
+                                <axis x="0.371851" y="0.926596" z="0.0561023" />
+                            </rotate>
+                        </keyframe>
+                    </keyframes>
+                </track>
+            </tracks>
+        </animation>
+    </animations>
+</skeleton>

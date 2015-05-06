@@ -1,0 +1,146 @@
+
+material stairzzz
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.521569 0.745098 0.501961 1
+			diffuse 0.521569 0.745098 0.501961 1
+			specular 0.044902 0.044902 0.044902 25 0
+
+			texture_unit
+			{
+				texture stairs.jpeg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Metal_Steel2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.439216 0.439216 0.439216 1
+			diffuse 0.439216 0.439216 0.439216 1
+
+			texture_unit
+			{
+				texture STEELPLT.JPG
+			}
+		}
+
+	}
+
+}
+
+
+
+material Metal_PlateOX
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.439216 0.439216 0.439216 1
+			diffuse 0.439216 0.439216 0.439216 1
+			specular 0.044902 0.044902 0.044902 1 0
+
+			texture_unit
+			{
+				texture PLATEOX2.JPG
+			}
+		}
+
+	}
+
+}
+
+
+
+material Metal_Steel1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.439216 0.439216 0.439216 1
+			diffuse 0.439216 0.439216 0.439216 1
+
+			texture_unit
+			{
+				texture STEELPLT.JPG
+			}
+		}
+
+	}
+
+}
+
+
+
+material Metal_Galvanized
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.592157 0.666667 0.74902 1
+			diffuse 0.592157 0.666667 0.74902 1
+			specular 1.51769 1.51769 1.51769 54 0
+
+			texture_unit
+			{
+				texture GALVPLAT.JPG
+			}
+		}
+
+	}
+
+}
+
+
+
+material Metal_Steel
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.439216 0.439216 0.439216 1
+			diffuse 0.439216 0.439216 0.439216 1
+
+			texture_unit
+			{
+				texture STEELPLT.JPG
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.47451 0.545098 1
+			diffuse 0.192157 0.47451 0.545098 1
+			specular 0.044902 0.044902 0.044902 25 0
+		}
+
+	}
+
+}
+
+

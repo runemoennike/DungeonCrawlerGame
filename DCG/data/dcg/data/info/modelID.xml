@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <modelID name="modelID_gold" file="gold" scale="0.05" zOffset="0" alpha="true" />
+  <modelID name="modelID_bag" file="bag" scale="0.03" zOffset="0" alpha="false" />
+  <modelID name="modelID_player" file="soccer" scale="0.035" zOffset="0" alpha="false" />
+  <modelID name="modelID_devildog" file="devildog" scale="0.11" zOffset="0" zRotPi="1" alpha="false" />
+  <modelID name="modelID_seademon" file="seademon" scale="0.11" zOffset="4" alpha="false" />
+  <modelID name="modelID_seademon_boss" file="seademon_boss" scale="0.3" zOffset="10" alpha="false" />
+  <modelID name="modelID_barrel" file="barrel_low" scale="0.04" zOffset="0" alpha="false" />
+  <modelID name="modelID_bookshelf" file="bookshelf" scale="0.005" zOffset="0" alpha="false" />
+  <modelID name="modelID_book" file="book" scale="0.2" zOffset="0" alpha="false" />
+  <modelID name="modelID_stairsup" file="stairs" scale="0.07" zOffset="0" xRotPi="-0.5" yRotPi="1" alpha="false" />
+  <modelID name="modelID_stairsdown" file="stairs" scale="0.07" zOffset="-7f" alpha="false" />
+  <modelID name="modelID_hpot1" file="hpot1" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_hpot2" file="hpot2" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_hpot3" file="hpot3" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_mpot1" file="mpot1" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_mpot2" file="mpot2" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_mpot3" file="mpot3" scale="0.01" zOffset="0" alpha="false" />
+  <modelID name="modelID_sword" file="sword4" scale="0.05" zOffset="0.2" alpha="false" />
+  <modelID name="modelID_dagger" file="sword4" scale="0.03" zOffset="0.2" alpha="false" />
+  <modelID name="modelID_axe" file="axe" scale="0.002" zOffset="0.2" alpha="false" />
+  <modelID name="modelID_shield" file="shield" scale="0.01" zOffset="0.2" alpha="false" />
+  <modelID name="modelID_trader" file="trader" scale="0.25" zOffset="3.7" zRotPi="0.5" yRotPi="1" xRotPi="0.5" alpha="false" />
+  <modelID name="modelID_porter" file="porter" scale="0.01" zOffset="4" alpha="false" />
+</info>

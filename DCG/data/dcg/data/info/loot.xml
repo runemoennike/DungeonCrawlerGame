@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <lootTable name="lootTable_none"></lootTable>
+  
+  <lootTable name="lootTable_all">
+    <entry item="item_hpot" chance="20" />
+    <entry item="item_hpot_large" chance="20" />
+    <entry item="item_mpot" chance="15" />
+    <entry item="item_mpot_large" chance="5" />
+    
+    <entry item="item_gold" chance="40" />
+    
+    <entry item="item_axe" chance="40" />
+    <entry item="item_sword" chance="40"/>
+    <entry item="item_dagger" chance="40"/>
+    
+    <entry item="item_armor_leather" chance="30" />
+    <entry item="item_armor_chain" chance="20" />
+    <entry item="item_armor_breastplate" chance="10" />
+    <entry item="item_armor_plate" chance="5" />
+    <entry item="item_armor_composite" chance="5" />
+    
+    <entry item="item_head_cap" chance="40" />
+    <entry item="item_head_chain" chance="30" />
+    <entry item="item_head_fullhelm" chance="30" />
+    <entry item="item_head_wingedhelm" chance="20" />
+    <entry item="item_head_cerehelm" chance="10" />
+    
+    <entry item="item_shield_wooden" chance="40" />
+    <entry item="item_shield_buckler" chance="30" />
+    <entry item="item_shield_kite" chance="20" />
+    <entry item="item_shield_tower" chance="10" />
+    <entry item="item_shield_knight" chance="5" />
+    
+    <entry item="item_boots_leather" chance="30" />
+    <entry item="item_boots_highleather" chance="20" />
+    <entry item="item_boots_plated" chance="10" />
+    
+    <entry item="item_hands_leather" chance="50" />
+    <entry item="item_hands_chain" chance="40" />
+    <entry item="item_hands_plated" chance="30" />
+    <entry item="item_hands_platedlong" chance="20" />
+    <entry item="item_hands_ornamented" chance="10" />
+    
+    <entry item="item_ring" chance="5" />
+    
+    <!-- 26 -->
+  </lootTable>
+  
+  <lootTable name="lootTable_bookshelf">
+    <entry item="item_hpot" chance="20" />
+    <entry item="item_gold" chance="40" />
+    <entry item="item_hpot_large" chance="20" />
+    <entry item="item_book" chance="100" />
+  </lootTable>
+</info>

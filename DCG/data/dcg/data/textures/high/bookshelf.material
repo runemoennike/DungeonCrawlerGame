@@ -1,0 +1,23 @@
+
+material Wood_Walnut_OgreMax
+{
+	technique Map#2
+	{
+		pass Map#3
+		{
+			ambient 0.431373 0.152941 0.152941 1
+			diffuse 0.698039 0.337255 0.196078 1
+
+			texture_unit Map#4
+			{
+				texture_alias Map#4
+				texture Walnut3.jpeg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+

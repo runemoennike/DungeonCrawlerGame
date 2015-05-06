@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <!-- Consumeables -->
+  <item name="item_hpot" caption="Health Potion" modelID="modelID_hpot1" class="ConsumableItem" price="25">
+    <consumeEffect>
+    </consumeEffect>
+    <bag w="1" h="1" image="bag_hpot.png" />
+  </item>
+  <item name="item_hpot_large" caption="Large Health Potion" modelID="modelID_hpot3" class="ConsumableItem" price="200">
+    <bag w="1" h="1" image="bag_hpot_large.png" />
+  </item>
+  <item name="item_mpot" caption="Mana Potion" modelID="modelID_mpot1" class="ConsumableItem" price="35">
+    <bag w="1" h="1" image="bag_mpot.png" />
+  </item>
+  <item name="item_mpot_large" caption="Large Mana Potion" modelID="modelID_mpot3" class="ConsumableItem" price="250">
+    <bag w="1" h="1" image="bag_mpot_large.png" />
+  </item>
+  <!-- Book -->
+  <item name="item_book" caption="Book" modelID="modelID_book" class="ConsumableItem" price="1000">
+    <bag w="2" h="2" image="bag_book.png" />
+  </item>
+  <!-- Weapons -->
+  <item name="item_axe" caption="Axe" modelID="modelID_axe" attachPoint="mainhand" class="Weapon" price="40" rangeType="melee">
+    <attack maxDmg="8" minDmg="4" cooldown="1.5">
+      <scale maxDmg="4" minDmg="1" cooldown="0" />
+    </attack>
+    <bag w="1" h="3" image="bag_axe.png" />
+  </item>
+  <item name="item_sword" caption="Sword" modelID="modelID_sword" attachPoint="mainhand" class="Weapon" price="50" rangeType="melee">
+    <attack maxDmg="4" minDmg="3" cooldown="1">
+      <scale maxDmg="3" minDmg="2" cooldown="0" />
+    </attack>
+    <bag w="1" h="3" image="bag_sword.png" />
+  </item>
+  <item name="item_dagger" caption="Dagger" modelID="modelID_sword" attachPoint="mainhand" class="Weapon" price="35" rangeType="melee">
+    <attack maxDmg="3" minDmg="2" cooldown="0.5">
+      <scale maxDmg="2" minDmg="1" cooldown="0" />
+    </attack>
+    <bag w="1" h="2" image="bag_sword.png" />
+  </item>
+  <item name="item_gold" caption="Pile of Gold" modelID="modelID_gold" class="Gold" price="1">
+    <bag w="1" h="1" image="bag_gold.png" />
+  </item>
+  
+  <!-- Head -->
+  <item name="item_head_cap" caption="Cap" modelID="modelID_bag" attachPoint="head" class="Armor" price="10">
+    <defense armor="1">
+      <scale armor="1" />
+    </defense>
+    <bag w="2" h="2" image="bag_head_cap.png" />
+  </item>
+  <item name="item_head_chain" caption="Chain Hood" modelID="modelID_bag" attachPoint="head" class="Armor" price="10">
+    <defense armor="2">
+      <scale armor="2" />
+    </defense>
+    <bag w="2" h="2" image="bag_head_chain.png" />
+  </item>
+  <item name="item_head_fullhelm" caption="Full Helm" modelID="modelID_bag" attachPoint="head" class="Armor" price="50">
+    <defense armor="3">
+      <scale armor="3" />
+    </defense>
+    <bag w="2" h="2" image="bag_head_helmet1.png" />
+  </item>
+  <item name="item_head_wingedhelm" caption="Winged Helmet" modelID="modelID_bag" attachPoint="head" class="Armor" price="100">
+    <defense armor="4">
+      <scale armor="4" />
+    </defense>
+    <bag w="2" h="2" image="bag_head_helmet3.png" />
+  </item>
+  <item name="item_head_cerehelm" caption="Ceremonial Helmet" modelID="modelID_bag" attachPoint="head" class="Armor" price="200">
+    <defense armor="5">
+      <scale armor="5" />
+    </defense>
+    <bag w="2" h="2" image="bag_head_helmet2.png" />
+  </item>
+  
+  <!-- Shield -->
+  <item name="item_shield_wooden" caption="Wooden Shield" modelID="modelID_shield" attachPoint="offhand" class="Armor" price="10">
+    <defense armor="3">
+      <scale armor="1" />
+    </defense>
+    <bag w="2" h="2" image="bag_shield_wooden.png" />
+  </item>
+  <item name="item_shield_buckler" caption="Buckler" modelID="modelID_shield" attachPoint="offhand" class="Armor" price="30">
+    <defense armor="4">
+      <scale armor="2" />
+    </defense>
+    <bag w="2" h="2" image="bag_shield_buckler.png" />
+  </item>
+  <item name="item_shield_kite" caption="Kite Shield" modelID="modelID_shield" attachPoint="offhand" class="Armor" price="180">
+    <defense armor="9">
+      <scale armor="3" />
+    </defense>
+    <bag w="2" h="2" image="bag_shield_kite.png" />
+  </item>
+  <item name="item_shield_tower" caption="Tower Shield" modelID="modelID_shield" attachPoint="offhand" class="Armor" price="350">
+    <defense armor="16">
+      <scale armor="5" />
+    </defense>
+    <bag w="1" h="3" image="bag_shield_tower.png" />
+  </item>
+  <item name="item_shield_knight" caption="Knight's Shield" modelID="modelID_shield" attachPoint="offhand" class="Armor" price="700">
+    <defense armor="30">
+      <scale armor="7" />
+    </defense>
+    <bag w="1" h="3" image="bag_shield_knight.png" />
+  </item>
+  
+  <!-- Armor -->
+  <item name="item_armor_leather" caption="Leather Armor" modelID="modelID_bag" attachPoint="chest" class="Armor" price="70">
+    <defense armor="10">
+      <scale armor="1" />
+    </defense>
+    <bag w="2" h="2" image="bag_armor_leather.png" />
+  </item>
+  <item name="item_armor_chain" caption="Chainmail" modelID="modelID_bag" attachPoint="chest" class="Armor" price="200">
+    <defense armor="15">
+      <scale armor="2" />
+    </defense>
+    <bag w="2" h="2" image="bag_armor_chain.png" />
+  </item>
+  <item name="item_armor_breastplate" caption="Breast Plate" modelID="modelID_bag" attachPoint="chest" class="Armor" price="350">
+    <defense armor="25">
+      <scale armor="4" />
+    </defense>
+    <bag w="2" h="2" image="bag_armor_breastplate.png" />
+  </item>
+  <item name="item_armor_plate" caption="Platemail" modelID="modelID_bag" attachPoint="chest" class="Armor" price="500">
+    <defense armor="35">
+      <scale armor="5" />
+    </defense>
+    <bag w="2" h="2" image="bag_armor_plate.png" />
+  </item>
+  <item name="item_armor_composite" caption="Composite Armor" modelID="modelID_bag" attachPoint="chest" class="Armor" price="700">
+    <defense armor="45">
+      <scale armor="6" />
+    </defense>
+    <bag w="2" h="2" image="bag_armor_composite.png" />
+  </item>
+  
+  <!-- Boots -->
+  <item name="item_boots_leather" caption="Leather Boots" modelID="modelID_bag" attachPoint="feet" class="Armor" price="100">
+    <defense armor="1">
+      <scale armor="1" />
+    </defense>
+    <bag w="2" h="2" image="bag_boots_leather.png" />
+  </item>
+  <item name="item_boots_highleather" caption="High Leather Boots" modelID="modelID_bag" attachPoint="feet" class="Armor" price="200">
+    <defense armor="5">
+      <scale armor="2" />
+    </defense>
+    <bag w="2" h="2" image="bag_boots_highleather.png" />
+  </item>
+  <item name="item_boots_plated" caption="Plated Boots" modelID="modelID_bag" attachPoint="feet" class="Armor" price="300">
+    <defense armor="15">
+      <scale armor="4" />
+    </defense>
+    <bag w="2" h="2" image="bag_boots_plated.png" />
+  </item>
+  
+  <!-- Hands -->
+  <item name="item_hands_leather" caption="Leather Gloves" modelID="modelID_bag" attachPoint="hands" class="Armor" price="40">
+    <defense armor="1">
+      <scale armor="1" />
+    </defense>
+    <bag w="2" h="2" image="bag_hands_leather.png" />
+  </item>
+  <item name="item_hands_chain" caption="Chain Gloves" modelID="modelID_bag" attachPoint="hands" class="Armor" price="100">
+    <defense armor="3">
+      <scale armor="2" />
+    </defense>
+    <bag w="2" h="2" image="bag_hands_chain.png" />
+  </item>
+  <item name="item_hands_plated" caption="Plated Gloves" modelID="modelID_bag" attachPoint="hands" class="Armor" price="150">
+    <defense armor="5">
+      <scale armor="3" />
+    </defense>
+    <bag w="2" h="2" image="bag_hands_plated.png" />
+  </item>
+  <item name="item_hands_platedlong" caption="Long Plated Gloves" modelID="modelID_bag" attachPoint="hands" class="Armor" price="230">
+    <defense armor="6">
+      <scale armor="4" />
+    </defense>
+    <bag w="2" h="2" image="bag_hands_platedlong.png" />
+  </item>
+  <item name="item_hands_ornamented" caption="Ornamented Gloves" modelID="modelID_bag" attachPoint="hands" class="Armor" price="310">
+    <defense armor="7">
+      <scale armor="5" />
+    </defense>
+    <bag w="2" h="2" image="bag_hands_ornamented.png" />
+  </item>
+  
+  <!-- ring -->  
+  <item name="item_ring" caption="Ring" modelID="modelID_bag" attachPoint="finger" class="Armor" price="1000">
+	<defense armor="0">
+      <scale armor="0" />
+    </defense>
+    <bag w="1" h="1" image="bag_ring.png" />
+  </item>
+  
+  
+</info>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <doodad name="doodad_barrel" caption="Barrel" modelID="modelID_barrel" destructible="true" lootTable="lootTable_all">
+    <placement countMin="2" countMax="10" chance="75" type="cluster" typeParameters="20"></placement>
+    <collision w="2" h="2" />
+  </doodad>
+  <doodad name="doodad_bookshelf" caption="Bookshelf" modelID="modelID_bookshelf" destructible="false" lootTable="lootTable_bookshelf">
+    <placement countMin="1" countMax="4" chance="75" type="nearWall"></placement>
+    <collision w="4" h="1" />
+  </doodad>
+  
+  <doodad name="doodad_stairsup" caption="Stairs Going Up" modelID="modelID_stairsup" destructible="false" lootTable="lootTable_none">
+    <collision w="10" h="10" />
+  </doodad>
+  <doodad name="doodad_stairsdown" caption="Stairs Going Down" modelID="modelID_stairsdown" destructible="false" lootTable="lootTable_none">
+    <collision w="10" h="10" />
+  </doodad>
+  
+  <doodad name="doodad_trader" caption="Friendly Trader" modelID="modelID_trader" destructible="false" lootTable="lootTable_none">
+    <collision w="3" h="3" />
+  </doodad>
+  <doodad name="doodad_porter" caption="Teleportation Guy" modelID="modelID_porter" destructible="false" lootTable="lootTable_none">
+    <collision w="3" h="3" />
+  </doodad>
+</info>

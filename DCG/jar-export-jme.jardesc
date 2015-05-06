@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Rune/My Dropbox/DTU/02122 - Fagprojekt/release/lib/jME.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DCG/jar-export-jme.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/DCG/manifest-jme" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.transients"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.font3d.effects"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.lwjgl.records"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.shader"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.cloth"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.water.data"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.jogl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.editors.swing.particles"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.jogl.shader"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.export.xml"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.curve"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.collada"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.renderer"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.particles"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.geometryinstancing"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.pool"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.jogl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.system.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.export"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.controls.controller"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.controls.controller.camera"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.app"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.math"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.geometryinstancing.instance"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.converters.maxutils"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.shadow"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.mouse"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.image"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.entity"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.renderer.jogl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.applet"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.editors.swing.widget"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.glsl.data"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.lod"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.resource"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.joystick"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.editors.swing.controls"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.controls.binding"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.system"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.font3d.math"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.font2d"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.intersection"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.export.binary"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.image.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.scene"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.renderer.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.subdivision"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.converters"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.stat.graph"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.game.state.load"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.measure"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.terrain.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.event"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.terrain"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.shape"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.editors.swing.pass"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.light"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.stream"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.lwjgl.shader"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.system.dummy"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.editors.swing.settings"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.openal"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.joystick.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.animation"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.game"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.ogrexml.anim"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.system.canvas"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.renderer.pass"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.game.state"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.animation"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.dummy"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.action"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.geom"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model.ogrexml"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.thirdperson"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.jogl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.math.spring"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.keyboard"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.glsl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.bounding"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.input"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.angelfont"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.font3d"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.swt.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.logging"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.geom.nvtristrip"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.util"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.model"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.system.jogl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.export.binary.modules"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.swingui.dnd"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.shader.uniformtypes"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.lwjgl"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.player"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.awt.swingui"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.input.controls"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.util.stat"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.audio.filter"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.effects.water"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jme.scene.state.jogl.records"/>
+        <javaElement handleIdentifier="=jme/src&lt;com.jmex.swt.input"/>
+    </selectedElements>
+</jardesc>

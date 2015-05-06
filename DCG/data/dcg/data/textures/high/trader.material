@@ -1,0 +1,20 @@
+
+material twader
+{
+	technique
+	{
+		pass
+		{
+			specular 0.044902 0.044902 0.044902 62.2882 0
+
+			texture_unit
+			{
+				texture warlock.jpg
+			}
+		}
+
+	}
+
+}
+
+

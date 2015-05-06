@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <!--Strengt-->
+  <prefix caption="Strong" quality="magic,rare,epic" slot="chest,hands,mainhand">
+    <stats str="2">
+      <scale str="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Mighty" quality="rare,epic" slot="chest,hands,mainhand">
+    <stats str="2">
+      <scale str="2" />
+    </stats>
+  </prefix>
+  <postfix caption="of the Devinas" quality="epic" slot="chest,hands,mainhand">
+    <stats str="2">
+      <scale str="3" />
+    </stats>
+  </postfix>
+  <!--Magic-->
+  <prefix caption="Crackling" quality="magic,rare,epic" slot="chest,hands,mainhand">
+    <stats mag="2">
+      <scale mag="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Radiant" quality="rare,epic" slot="chest,hands,mainhand">
+    <stats mag="5">
+      <scale mag="2" />
+    </stats>
+  </prefix>
+  <postfix caption="of the Nightdwellers" quality="epic" slot="chest,hands,mainhand">
+    <stats mag="10">
+      <scale mag="3" />
+    </stats>
+  </postfix>
+  <!--Vitality-->
+  <prefix caption="Invigorating" quality="magic,rare,epic" slot="chest,hands,mainhand">
+    <stats vit="2">
+      <scale vit="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Vitalizing" quality="rare,epic" slot="chest,hands,mainhand">
+    <stats vit="5">
+      <scale vit="2" />
+    </stats>
+  </prefix>
+  <postfix caption="of Windal Vitality" quality="epic" slot="chest,hands,mainhand">
+    <stats vit="10">
+      <scale vit="3" />
+    </stats>
+  </postfix>
+  <!--Agility-->
+  <prefix caption="Fast" quality="magic,rare,epic" slot="chest,hands,mainhand">
+    <stats agi="2">
+      <scale agi="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Furious" quality="rare,epic" slot="chest,hands,mainhand">
+    <stats agi="5">
+      <scale agi="2" />
+    </stats>
+  </prefix>
+  <postfix caption="of Cotrop Balance" quality="epic" slot="chest,hands,mainhand">
+    <stats agi="10">
+      <scale agi="3" />
+    </stats>
+  </postfix>
+  <!--HP-->
+  <postfix caption="of the Plains" quality="rare,epic" slot="finger,mainhand">
+    <stats mana="50">
+      <scale mana="5" />
+    </stats>
+  </postfix>
+  <!--MP-->
+  <postfix caption="of the Underground" quality="rare,epic" slot="finger,mainhand">
+    <stats mana="50">
+      <scale mana="5" />
+    </stats>
+  </postfix>
+  <!--Healthsteal-->
+  <prefix caption="Hungry" quality="magic,rare,epic" slot="mainhand">
+    <stats lifeSteal="2">
+      <scale lifeSteal="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Shadow Engulfed" quality="rare,epic" slot="mainhand">
+    <stats lifeSteal="1">
+      <scale lifeSteal="2" />
+    </stats>
+  </prefix>
+  <!--Manasteal-->
+  <prefix caption="Thristy" quality="magic,rare,epic" slot="mainhand">
+    <stats manaSteal="2">
+      <scale manaSteal="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Illuminated" quality="rare,epic" slot="mainhand">
+    <stats manaSteal="1">
+      <scale manaSteal="2" />
+    </stats>
+  </prefix>
+  <!--Armorbonus-->
+  <prefix caption="Heavy" quality="magic" slot="offhand,chest,head">
+    <stats bonusArmor="5">
+      <scale bonusArmor="2" />
+    </stats>
+  </prefix>
+  <!--Damagebonus-->
+  <prefix caption="Really Sharp" quality="magic" slot="mainhand">
+    <stats bonusDmg="5">
+      <scale bonusDmg="2" />
+    </stats>
+  </prefix>
+  <prefix caption="Master-crafted" quality="rare,epic" slot="mainhand">
+    <stats bonusDmg="10">
+      <scale bonusDmg="2" />
+    </stats>
+  </prefix>
+  <postfix caption="Dripping with Poison" quality="magic,rare,epic" slot="mainhand">
+    <stats bonusDmg="10">
+      <scale bonusDmg="3" />
+    </stats>
+  </postfix>
+  <!--Hit-->
+  <prefix caption="Precise" quality="magic,rare,epic" slot="mainhand">
+    <stats bonusHit="5">
+      <scale bonusHit="1" />
+    </stats>
+  </prefix>
+  <prefix caption="Fitting" quality="magic,rare,epic" slot="hands,chest,head">
+    <stats bonusHit="5">
+      <scale bonusHit="1" />
+    </stats>
+  </prefix>
+  <!--Evasion-->
+  <prefix caption="Light" quality="magic,rare,epic" slot="chest,head,feet">
+    <stats bonusEva="5">
+      <scale bonusEva="1" />
+    </stats>
+  </prefix>
+  <!--Poor-->
+  <prefix caption="Broken" quality="poor" slot="head,chest,finger,feet,hands,mainhand,offhand">
+    <stats>
+      <scale />
+    </stats>
+  </prefix>
+  <prefix caption="Poor" quality="poor" slot="head,chest,finger,feet,hands,mainhand,offhand">
+    <stats>
+      <scale />
+    </stats>
+  </prefix>
+  <prefix caption="Useless" quality="poor" slot="head,chest,finger,feet,hands,mainhand,offhand">
+    <stats>
+      <scale />
+    </stats>
+  </prefix>
+  <!--Epic-->
+  <prefix caption="Ultimate" quality="epic" slot="head,chest,finger,feet,hands,mainhand,offhand">
+    <stats lifeSteal="2" bonusDmg="5" str="2">
+      <scale lifeSteal="2" bonusDmg="2" str="2" />
+    </stats>
+  </prefix>
+  <postfix caption="of the Watchman" quality="epic" slot="head,chest,offhand">
+    <stats bonusArmor="3" vit="1">
+      <scale bonusArmor="2" vit="2" />
+    </stats>
+  </postfix>
+  <!-- Bookfixes -->
+  <bookfix magic="Firebolt"></bookfix>
+  <bookfix magic="Minor Heal"></bookfix>
+  <bookfix magic="Major Heal"></bookfix>
+</info>
+<!-- 21 pre, 8 post. 5148 -->

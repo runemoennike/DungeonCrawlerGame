@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Rune/My Dropbox/DTU/02122 - Fagprojekt/release/Divide.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DCG/jar-export-src.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=DCG/src&lt;engine{Main.java[Main" manifestLocation="/DCG/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DCG/src"/>
+        <javaElement handleIdentifier="=DCG/thirdParty"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,24 @@
+
+material sword_OgreMax
+{
+	technique Map#2
+	{
+		pass Map#3
+		{
+			ambient 0.584314 0.584314 0.584314 1
+			diffuse 0.584314 0.584314 0.584314 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#4
+			{
+				texture_alias Map#4
+				texture sword.tga
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+

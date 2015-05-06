@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <monster name="monster_melee" modelID="modelID_devildog" caption="Devil Dog" ai="ZombieAI" speed="8" lootTable="lootTable_all" npctype="melee" npcquality="normal" mindmg="1" maxdmg="3">
+    <collision w="3" h="3" />
+    <placement chance="75" countMin="2" countMax="3" />
+    <stats agi="15" vit="5" str="10" lifeSteal="3" bonusHit="25"></stats>
+     <skills skills="Offensive Test Skill 1"/>
+  </monster>
+  <monster name="monster_caster" modelID="modelID_seademon" caption="Demon" ai="ZombieAI" speed="4" lootTable="lootTable_all" npctype="magic" npcquality="normal" mindmg="1" maxdmg="2">
+    <collision w="3" h="3" />
+    <placement chance="75" countMin="1" countMax="4" />
+    <stats agi="3" vit="2" str="2" mag="7" bonushit="10" mana="10000000"></stats>
+    <skills skills="Offensive Test Skill 2" magics="Firebolt, Minor Heal" />
+  </monster>
+  <monster name="monster_boss" modelID="modelID_seademon_boss" caption="Demon Lord" ai="ZombieAI" speed="2" lootTable="lootTable_all" npctype="melee" npcquality="boss" mindmg="5" maxdmg="10">
+    <collision w="10" h="10" />
+    <placement chance="0" countMin="0" countMax="0" />
+    <stats agi="7" vit="10" str="8" mag="7" bonushit="10"></stats>
+    <skills skills="Offensive Test Skill 2" />
+  </monster>
+</info>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+<story name="story_intro" text="
+!#!#!#!#Welcome to Divide!!#!#!#
+Use the left mouse to navigate, attack, interact and!#
+pick up items, and the right mouse button to cast!#
+spells (when you learn them from books). !#!#!#
+Use the interface buttons to open your inventory,!#
+character stats, skills and spells. !#!#!#
+The red area represents your hit points, and the!#
+blue your spell points.!#!#!#
+You can trade items with one of the guys in the !#
+sanctuary (this area), and port to previous areas!#
+using the other guy.!#!#!#Walk down the stairs to!#
+begin your adventure...!#" />
+
+<story name="story_entering_1" text="
+As you enter the dungeon, a foul stench of death!#
+and rot strikes you... and a hint of dust.!#!#!#
+Perhaps some of these barrels contain interesting!#
+items that will make it worth your while?!#"/>
+
+<story name="story_entering_2" text="
+Well done, you've made it further down the!#
+dungeons!!#!#!#
+If you've leveled up yet, remember to open up your!#
+character sheet (press c or use the button) and !#
+place the stat points you've gained. !#!#!#
+Do the same thing with skills, by pressing t or !#
+use the pretty button."/>
+
+<story name="story_entering_3" text="
+Captivated by the epic thrill of looting and!#
+character building you venture deeper into the!#
+dungeons.!#!#!#
+Seems like a good idea. Keep going!#"/>
+<story name="story_entering_4" text="
+Dungeons, dungeons, dungeons. Yes, they will!#
+keep coming at you, for a fair while yet.!#!#!#
+Did you meet the blue wizard yet?!#"/>
+
+<story name="story_entering_5" text="
+With all traces of light long gone, there is no!#
+other way than down.!#!#!#
+Well, except for up. But that would be like giving!#
+up. And you're not a quitter, right?"/>
+
+<story name="story_entering_6" text="
+Whoa! Everything looks different here! !#!#!#
+It seems that someone really got tired of painting!#
+the walls in the same way over and over.!#"/>
+
+<story name="story_entering_10" text="
+Remember back when you were just another nobody!#
+in dungeon level 1? !#!#!#
+You've sure come a long way since then!"/>
+
+<story name="story_entering_16" text="
+What's that on the floor? Sure looks grimey."/>
+
+<story name="story_entering_19" text="
+The stench increases ten-fold as your walk down!#
+the stairs. You must be getting really close by!#
+now..."/>
+
+<story name="story_entering_20" text="
+Uh oh!"/>
+</info>

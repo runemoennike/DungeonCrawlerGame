@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <!--defensive-->
+  <statsskill name="Armor Maintenance" skillclass="defensive" maxlevel="3" tier="0">
+    <stats bonusArmor="3">
+      <scale bonusArmor="3"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Felyal Bloodline" maxlevel="5" skillclass="defensive" tier="4">
+    <stats vit="5">
+      <scale vit="5"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Survivalist" maxlevel="1" skillclass="defensive" tier="5" prerequisites="Felyal Bloodline">
+    <stats bonusArmor="20" bonusEva="10">
+      <scale></scale>
+    </stats>
+  </statsskill>
+  <defensiveskill name="Fencing" maxlevel="3" skillclass="defensive" tier="1">
+    <stats chance="10" maxrangesquared="8" physicalDmgReduction="10">
+      <scale chance="5"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Blocking" prerequisites="Fencing" skillclass="defensive" maxlevel="5" tier="2">
+    <stats chance="6" block="true">
+      <scale chance="6"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Windal Toughness" maxlevel="2" skillclass="defensive" tier="2">
+    <stats chance="100" magicDmgReduction="4" physicalDmgReduction="4">
+      <scale magicDmgReduction="4" bonusdmg="4"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Will of the Windal" prerequisites="Windal Toughness" skillclass="defensive" maxlevel="5" tier="3">
+    <stats returnDmg="4">
+      <scale returnDmg="4"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Stalwart" prerequisites="Will of the Windal" skillclass="defensive" maxlevel="2" tier="5">
+    <stats bonusArmor="4">
+      <scale bonusArmor="4"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Gift of the Seylop" maxlevel="1" skillclass="defensive" tier="4">
+    <stats chance="50" minsquaredrangereq="100" evasion="true">
+      <scale></scale>
+    </stats>
+  </defensiveskill>
+  <!--offensive-->
+  <statsskill name="Weapons Maintenance" skillclass="offensive" maxlevel="3" tier="0">
+    <stats bonusDmg="2">
+      <scale bonusDmg="2"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Lotram Bloodline" skillclass="offensive" maxlevel="5" tier="4">
+    <stats agi="5">
+      <scale agi="5"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Master Precision" maxlevel="1" tier="5" prerequisites="Lotram Bloodline" skillclass="offensive">
+    <stats bonusHit="25">
+      <scale></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Devinas Bloodline" maxlevel="5" skillclass="offensive" tier="4">
+    <stats str="5">
+      <scale str="5"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Combat Training" maxlevel="1" skillclass="offensive" tier="5" prerequisites="Devinas Bloodline">
+    <stats bonusDmg="15">
+      <scale></scale>
+    </stats>
+  </statsskill>
+  <offensiveskill name="Bear Paw" skillclass="offensive" maxlevel="4" tier="1">
+    <stats rangetype="melee" chance="100" bonusdmg="2">
+      <scale bonusdmg="2"></scale>
+    </stats>
+  </offensiveskill>
+  <offensiveskill name="Strike From Above" maxlevel="1" skillclass="offensive" tier="4" prerequisites="Master in Precision, Bear Paw">
+    <stats rangetype="ranged" chance="20" minsquaredrangereq="100" bonusdmg="100" hit="true">
+      <scale></scale>
+    </stats>
+  </offensiveskill>
+  <offensiveskill name="Point Blank Mastery" maxlevel="2" skillclass="offensive" tier="2">
+    <stats chance="50" rangetype="ranged" maxsquaredrangereq="20" bonusdmg="30">
+      <scale chance="50"></scale>
+    </stats>
+  </offensiveskill>
+  <!--magic-->
+  <statsskill name="Olminghet Bloodline" skillclass="magic" maxlevel="5" tier="4">
+    <stats mag="5">
+      <scale mag="5"></scale>
+    </stats>
+  </statsskill>
+  <statsskill name="Mark of Dunjahk" maxlevel="1" skillclass="magic" tier="5" prerequisites="Olminghet Bloodline">
+    <stats manaSteal="100">
+      <scale></scale>
+    </stats>
+  </statsskill>
+  <defensiveskill name="Mana Shield" maxlevel="5" skillclass="magic" tier="4">
+    <stats chance="100" dmgGoesToMana="10">
+      <scale dmgGoesToMana="10"></scale>
+    </stats>
+  </defensiveskill>
+  <defensiveskill name="Gift of the Volcano God" maxlevel="1" prerequisites="Mana Shield" skillclass="magic" tier="5">
+    <stats chance="100" dmgReturn="25" magicDmgReduction="30">
+      <scale></scale>
+    </stats>
+  </defensiveskill>
+  <magicskill name="Firepower" maxlevel="4" tier="1" magictype="damage" skillclass="magic">
+    <stats dmgHealBonus="5">
+      <scale dmgHealBonus="5"></scale>
+    </stats>
+  </magicskill>
+  <!--spells-->
+  <magic name="Firebolt" magictype="damage">
+    <stats manaCost="10" minDmgHeal="2" maxDmgHeal="4">
+      <scale manaCost="2" minDmgHeal="2" maxDmgHeal="4"></scale>
+    </stats>
+  </magic>
+  <magic name="Minor Heal" magictype="heal">
+    <stats manaCost="10" minDmgHeal="5" maxDmgHeal="10">
+      <scale manaCost="2" minDmgHeal="5" maxDmgHeal="10"></scale>
+    </stats>
+  </magic>
+  <magic name="Major Heal" magictype="heal">
+    <stats manaCost="30" minDmgHeal="10" maxDmgHeal="20">
+      <scale manaCost="6" minDmgHeal="10" maxDmgHeal="20"></scale>
+    </stats>
+  </magic>
+</info>
